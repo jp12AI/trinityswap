@@ -14,12 +14,12 @@ function App() {
       <Routes />
       <div className="social-buttons">
         <GitHubButton
-          href="https://github.com/jp12AI/solana-dex"
+          href="https://github.com/jp12AI/trinityswap"
           data-color-scheme="no-preference: light; light: light; dark: light;"
           data-icon="octicon-star"
           data-size="large"
           data-show-count={true}
-          aria-label="Star solana-dex on GitHub"
+          aria-label="Star trinityswap on GitHub"
         >
           Fork
         </GitHubButton>
