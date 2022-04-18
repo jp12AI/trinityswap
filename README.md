@@ -11,5 +11,5 @@ Visit our documentation page here:
  ------------------
  # Visit: https://www.trinityswap.com/#/ to start trading on the solana blockchain now. 
  ------------------
- # Trinityswap is currently beta software. Use with caution!
+ # Trinityswap is currently beta software. Use with caution! Do not use trinityswap's pool feature!!
  ------------------
