@@ -8,7 +8,6 @@ Don't think a crypto exchange can be open-source, well we'd like to change your 
 
 Visit our documentation page here: 
 
-![T (1)](https://user-images.githubusercontent.com/58639429/163871381-6de11052-4031-43ab-b440-5ee56b0cb550.png)  
-![Copy of T](https://user-images.githubusercontent.com/58639429/163872408-2186f558-1e0e-40d1-b4e4-cf3354da26fc.png)
+![T (1)](https://user-images.githubusercontent.com/58639429/163871381-6de11052-4031-43ab-b440-5ee56b0cb550.png) ![Copy of T](https://user-images.githubusercontent.com/58639429/163872408-2186f558-1e0e-40d1-b4e4-cf3354da26fc.png)
 
  # Trinityswap is built on project serum: https://www.projectserum.com/ 
