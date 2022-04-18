@@ -13,3 +13,5 @@ Visit our documentation page here:
  ------------------
  # Trinityswap is currently beta software. Use with caution! Do not use trinityswap's pool feature!!
  ------------------
+# Discord Server
+Invite link: https://discord.gg/sBfESAaaeV
