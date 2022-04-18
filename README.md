@@ -8,4 +8,5 @@ Don't think a crypto exchange can be open-source, well we'd like to change your 
 
 Visit our documentation page here: 
 
-![T (1)](https://user-images.githubusercontent.com/58639429/163871381-6de11052-4031-43ab-b440-5ee56b0cb550.png)
+![T (1)](https://user-images.githubusercontent.com/58639429/163871381-6de11052-4031-43ab-b440-5ee56b0cb550.png) # BUILT ON![project-serum-LOGO](https://user-images.githubusercontent.com/58639429/163871536-b44a6261-df5b-4b86-8cf1-96559644860e.png)
+
